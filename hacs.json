@@ -1,0 +1,7 @@
+{
+  "name": "Gree Central Climate",
+  "content_in_root": false,
+  "render_readme": true,
+  "hide_default_branch": true,
+  "homeassistant": "2023.1.0"
+}
